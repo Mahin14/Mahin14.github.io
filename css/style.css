@@ -1,3 +1,16 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: #CBCACC;
+}
+.banner-content{
+    background-color: #8E8C8E;
+    /* text-align: center; */
+}
+#navbarSupportedContent{
+    text-transform: uppercase;
+}
+.navbar{
+    background-color:rgb(8, 1, 70);
+}
