@@ -55,3 +55,22 @@ body{
     background-color: black!important;
     color:red!important;
 }
+.footer{
+    background-color:  #03acf5;
+}
+
+.circle_f{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color:  #3686a8;;
+}
+
+.circle_f:hover{
+    
+    background-color: rgba(162, 162, 163, 0.795);
+}
